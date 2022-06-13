@@ -17,3 +17,4 @@
   + Về loại thú cưng em sẽ phân chia từng trang dog hoặc cat riêng biệt - chia ra 2 trang để quản lí chứ không phải là một trang như bây giờ
   + Sẽ có nút button để chuyển trang qua lại, dog riêng và cat riêng
 9. Vấn đề khó khăn nhất hoặc thứ em thấy tâm đắc, ấn tượng nhất  mà em đã gặp trong dự án (có thể là 1 đoạn code, 1 chức năng, 1 cách xử lý vấn đề, ...) 
+Vấn đề mà em cảm thấy tâm đắc nhất là em làm được phần hiển thị ảnh ạ
