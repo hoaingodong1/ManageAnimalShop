@@ -13,7 +13,6 @@
 - Em đang css form nhập, sửa cho đẹp
 - Ở phần nhập type và gender em đang làm các tùy chọn cho người dùng chọn thay vì nhập tay 
 7. Các chức năng dự định sẽ làm tiếp theo
-- Ở phần add Image, em muốn người dùng có thể upload file ảnh lên thay vì nhập link vào 
 - Bởi vì hiện tại em đã làm đầy đủ các chức năng nên em có ý định mình sẽ làm thêm:
   + đăng nhập đăng kí tài khoản
   + Css lại bài làm
